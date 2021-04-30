@@ -5,3 +5,5 @@ workday_quality,worked_with_other_people,helped_other_people,interrupted,goals,h
 :slightly_frowning_face: Bad,Some of the day,Much of the day,A little of the day,N/A,Some of the day,N/A,N/A,N/A,N/A,N/A,N/A,
 workday_quality,worked_with_other_people,helped_other_people,interrupted,goals,high_quality_work,lot_of_work,breaks,meetings,emotions,most_productive,least_productive,
 N/A,N/A,N/A,N/A,Much of the day,N/A,N/A,Much of the day,N/A,N/A,N/A,N/A,
+workday_quality,worked_with_other_people,helped_other_people,interrupted,goals,high_quality_work,lot_of_work,breaks,meetings,emotions,most_productive,least_productive,
+:slightly_frowning_face: Bad,N/A,N/A,N/A,A little of the day,N/A,N/A,A little of the day,N/A,N/A,N/A,N/A,
