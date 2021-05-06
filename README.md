@@ -5,7 +5,8 @@
 
   You logged 5 days this week.
 
-
+  ☀️ *2* of those days were good (40%)
+  🌧 *3* of those days were not-so-good (60%)
 
   ![Image](time-of-day.png)
 ![Image](timeline-0.png)
