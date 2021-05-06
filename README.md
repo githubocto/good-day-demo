@@ -3,7 +3,8 @@
 
   ## Latest summary
 
-  ![Image](timeline-0.png)
+  ![Image](time-of-day.png)
+![Image](timeline-0.png)
 ![Image](timeline-1.png)
 ![Image](timeline-2.png)
 ![Image](timeline-3.png)
