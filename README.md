@@ -1,12 +1,13 @@
 
   # Good Day
 
-  ## This week's summary
+  ## This week's summary (week of April 25, 2021)
 
-  You logged 5 days this week.
+  You logged 5 days this week. Great job!
 
-  ☀️ *2* of those days were good (40%)
-  🌧 *3* of those days were not-so-good (60%)
+  ☀️ **2** of those days were good (40%)
+
+  🌧 **3** of those days were not-so-good (60%)
 
   ![Image](time-of-day.png)
 ![Image](timeline-0.png)
