@@ -3,7 +3,7 @@
 
   ## This week's summary
 
-  You logged 7 days this week.
+  You logged 5 days this week.
 
 
 
