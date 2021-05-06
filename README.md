@@ -1,7 +1,11 @@
 
   # Good Day
 
-  ## Latest summary
+  ## This week's summary
+
+  You logged 4 days this week.
+
+
 
   ![Image](time-of-day.png)
 ![Image](timeline-0.png)
