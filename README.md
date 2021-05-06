@@ -9,8 +9,15 @@
 
   🌧 **3** were Not-so-good days (60%). *These are days you rated as OK, Bad, or Terrible*
 
+  Let's take a look at the data you logged for this week.
+
+  ## Do you have a typical time of day that feels productive?
+
   ![Image](time-of-day.png)
-![Image](timeline-0.png)
+
+  ## How you answered each question
+
+  ![Image](timeline-0.png)
 ![Image](timeline-1.png)
 ![Image](timeline-2.png)
 ![Image](timeline-3.png)
