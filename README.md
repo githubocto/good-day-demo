@@ -1,13 +1,13 @@
 
   # The Good Day Project
 
-  ## This week's summary (week of April 25, 2021)
+  ## Week of April 25, 2021 summary
 
-  You logged 5 days this week. Great job!
+  You logged 4 days this week. Great job!
 
-  ☀️ **2** were Good days (40%). *These are days you rated as Awesome or Good*
+  ☀️ **1** were Good days (25%). *These are days you rated as Awesome or Good*
 
-  🌧 **3** were Not-so-good days (60%). *These are days you rated as OK, Bad, or Terrible*
+  🌧 **3** were Not-so-good days (75%). *These are days you rated as OK, Bad, or Terrible*
 
   On average, your workdays were 😐 OK.
 
