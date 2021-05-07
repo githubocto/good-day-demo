@@ -15,6 +15,8 @@
 
   ## Do you have a typical time of day that feels productive?
 
+  First, let's look at which parts of the day you were most and least productive. If there's a clear pattern, could you optimize your schedule to work with your natural productivity?
+
   ![Image](time-of-day.png)
 
   ## How you answered each question
