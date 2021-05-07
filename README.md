@@ -9,6 +9,8 @@
 
   🌧 **3** were Not-so-good days (60%). *These are days you rated as OK, Bad, or Terrible*
 
+  On average, your workdays were undefined.
+
   Let's take a look at the data you logged for this week.
 
   ## Do you have a typical time of day that feels productive?
