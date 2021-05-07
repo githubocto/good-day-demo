@@ -19,6 +19,10 @@
 
   ## How you answered each question
 
+  Let's look at how you responeded to each question over the week.
+
+  Is there any relationship to how you answered the first *How was your workday* question? We colored the background of each day with your response - red for not-so-good days and green for great days.
+
   ![Image](timeline-0.png)
 ![Image](timeline-1.png)
 ![Image](timeline-2.png)
