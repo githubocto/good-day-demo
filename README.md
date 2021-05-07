@@ -5,9 +5,9 @@
 
   You logged 4 days this week. Great job!
 
-  ☀️ **1** were Good days (25%). *These are days you rated as Awesome or Good*
+  ☀️ **2** were Good days (50%). *These are days you rated as Awesome or Good*
 
-  🌧 **3** were Not-so-good days (75%). *These are days you rated as OK, Bad, or Terrible*
+  🌧 **2** were Not-so-good days (50%). *These are days you rated as OK, Bad, or Terrible*
 
   On average, your workdays were 😐 OK.
 
