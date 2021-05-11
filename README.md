@@ -17,7 +17,7 @@
 
   First, let's look at how you responded to each question over the week.
 
-  Is there any relationship to how you answered the first *How was your workday* question? We show how you reported the quality of your workday at the top - see if there are any patterns on the Good days that you can control.
+  Is there any relationship to how you answered the first *How was your workday* question? We show how you reported the quality of your workday and how you felt about it at the top - see if there are any patterns on the Good days that you can control.
 
   As a reminder, the quality question options were:
 
