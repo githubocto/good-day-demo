@@ -31,14 +31,14 @@
 
 😍 Awesome!
 
-  ![Image](amount-of-day.png)
+  ![Image](charts/amount-of-day.png)
 
 
   ## Do you have a typical time of day that feels productive?
 
   Let's look at which parts of the day you were most and least productive. If there's a clear pattern, could you optimize your schedule to work with your natural productivity?
 
-  ![Image](time-of-day.png)
+  ![Image](charts/time-of-day.png)
 
 
   ---
