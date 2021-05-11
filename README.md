@@ -9,7 +9,7 @@
 
   🌧 **3** were Not-so-good days (60%). <br />*These are days you rated as OK, Bad, or Terrible*
 
-  On average, your workdays were 😐 OK.
+  On average, your workdays were *😐 OK*.
 
   Let's take a look at the data you logged for this week.
 
@@ -40,4 +40,8 @@
 
   ![Image](time-of-day.png)
 
+
+  ---
+
+  If you would like to dig into your data, you can find all of it in the [good-day.csv](./good-day.csv) file.
   
