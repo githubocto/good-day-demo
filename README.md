@@ -31,6 +31,24 @@
 
 😍 Awesome!
 
+  and the responses to *How did you feel about your workday* question were:
+
+  😬 Tense or nervous
+
+😟 Stressed or upset
+
+😢 Sad or depressed
+
+:yawning_face: Bored
+
+☺️ Calm or relaxed
+
+😌 Serene or content
+
+🙂 Happy or elated
+
+😀 Excited or alert
+
   ![Image](charts/amount-of-day.png)
 
 
