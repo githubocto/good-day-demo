@@ -28,9 +28,13 @@
   As a reminder, the quality question options were:
 
   😭 Terrible
+
 🙁 Bad
+
 😐 OK
+
 🙂 Good
+
 😍 Awesome!
 
   ![Image](amount-of-day.png)
