@@ -25,5 +25,13 @@
 
   Is there any relationship to how you answered the first *How was your workday* question? We show how you reported the quality of your workday at the top - see if there are any patterns on the Good days that you can control.
 
+  As a reminder, the quality question options were:
+
+  😭 Terrible
+🙁 Bad
+😐 OK
+🙂 Good
+😍 Awesome!
+
   ![Image](amount-of-day.png)
   
