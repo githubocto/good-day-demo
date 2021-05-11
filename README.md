@@ -19,23 +19,11 @@
 
   ![Image](time-of-day.png)
 
-  ## How you answered each question
+  ## What did your good and not-so-good days look like?
 
-  Let's look at how you responeded to each question over the week.
+  Let's look at how you responded to each question over the week.
 
-  Is there any relationship to how you answered the first *How was your workday* question? We colored the background of each day with your response - red for not-so-good days and green for great days.
+  Is there any relationship to how you answered the first *How was your workday* question? We show how you reported the quality of your workday at the top - see if there are any patterns on the Good days that you can control.
 
   ![Image](amount-of-day.png)
-![Image](timeline-0.png)
-![Image](timeline-1.png)
-![Image](timeline-2.png)
-![Image](timeline-3.png)
-![Image](timeline-4.png)
-![Image](timeline-5.png)
-![Image](timeline-6.png)
-![Image](timeline-7.png)
-![Image](timeline-8.png)
-![Image](timeline-9.png)
-![Image](timeline-10.png)
-![Image](timeline-11.png)
   
