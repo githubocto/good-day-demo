@@ -5,9 +5,13 @@
 
   You logged 5 days this week. Great job!
 
-  ☀️ **2** were Good days (40%). *These are days you rated as Awesome or Good*
+  ☀️ **2** were Good days (40%).
 
-  🌧 **3** were Not-so-good days (60%). *These are days you rated as OK, Bad, or Terrible*
+  *These are days you rated as Awesome or Good*
+
+  🌧 **3** were Not-so-good days (60%).
+
+  *These are days you rated as OK, Bad, or Terrible*
 
   On average, your workdays were 😐 OK.
 
@@ -31,13 +35,13 @@
 
 😍 Awesome!
 
-  ![Image](time-of-day.png)
+  ![Image](amount-of-day.png)
 
 
   ## Do you have a typical time of day that feels productive?
 
   Let's look at which parts of the day you were most and least productive. If there's a clear pattern, could you optimize your schedule to work with your natural productivity?
 
-  ![Image](amount-of-day.png)
+  ![Image](time-of-day.png)
 
   
