@@ -13,15 +13,9 @@
 
   Let's take a look at the data you logged for this week.
 
-  ## Do you have a typical time of day that feels productive?
-
-  First, let's look at which parts of the day you were most and least productive. If there's a clear pattern, could you optimize your schedule to work with your natural productivity?
-
-  ![Image](time-of-day.png)
-
   ## What did your good and not-so-good days look like?
 
-  Let's look at how you responded to each question over the week.
+  First, let's look at how you responded to each question over the week.
 
   Is there any relationship to how you answered the first *How was your workday* question? We show how you reported the quality of your workday at the top - see if there are any patterns on the Good days that you can control.
 
@@ -37,5 +31,13 @@
 
 😍 Awesome!
 
+  ![Image](time-of-day.png)
+
+
+  ## Do you have a typical time of day that feels productive?
+
+  Let's look at which parts of the day you were most and least productive. If there's a clear pattern, could you optimize your schedule to work with your natural productivity?
+
   ![Image](amount-of-day.png)
+
   
